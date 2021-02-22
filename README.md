@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juan-cardona
-- 👀 I’m interested I like building cool stuff, also ML and webdev
+- 👀 I like building cool stuff, also ML and webdev
 - 🌱 I’m currently learning how to write react native apps that use machine learning
 - 💞️ I’m looking to collaborate on any ideas worth working on
 - 📫 How to reach me, send me an email at joscardona@icloud.com
