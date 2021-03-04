@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juan-cardona
 - 👀 I like building cool stuff, also ML and webdev
-- 🌱 I’m currently learning how to write react native apps that use machine learning
+- 🌱 I’m currently learning how to implement Zero Shot Learning approaches on web apps using React
 - 💞️ I’m looking to collaborate on any ideas worth working on
 - 📫 How to reach me, send me an email at joscardona@icloud.com
 
