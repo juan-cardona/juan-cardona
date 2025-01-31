@@ -431,6 +431,9 @@
         <mxCell id="M_lgueONffc1kV9OH6T1-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" parent="1" vertex="1">
           <mxGeometry x="753.0999999999999" y="839.27" width="16.97" height="15.55" as="geometry" />
         </mxCell>
+        <mxCell id="qLElPEvDfmLhGzP3HraH-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontColor=#ffffff;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="225.77999999999997" width="270" height="336.12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
