@@ -899,7 +899,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XwqD8HPqV-pHGpEOgtCK" name="BC">
-    <mxGraphModel dx="2601" dy="1026" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2976" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1126,6 +1126,12 @@
         <mxCell id="w829N20PK1tfemADK1vs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontColor=#ffffff;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="ih2ar2zz_Q7zOY8w2WDg-49">
           <mxGeometry x="206.8" y="65.55" width="283.2" height="365.55" as="geometry" />
         </mxCell>
+        <mxCell id="w829N20PK1tfemADK1vs-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="ih2ar2zz_Q7zOY8w2WDg-49">
+          <mxGeometry x="288.4200000000001" y="205.54999999999995" width="20.73" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="ghip4yq3iaU0QYbZIhPO-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="ih2ar2zz_Q7zOY8w2WDg-49">
+          <mxGeometry x="366.80000000000007" y="103.64999999999998" width="20.73" height="19" as="geometry" />
+        </mxCell>
         <mxCell id="ih2ar2zz_Q7zOY8w2WDg-59" value="3rd Party" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="372.36" y="789.31" width="130" height="43" as="geometry" />
         </mxCell>
@@ -1343,9 +1349,6 @@
         <mxCell id="w829N20PK1tfemADK1vs-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="1">
           <mxGeometry x="-165.52000000000004" y="583.04" width="20.73" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="w829N20PK1tfemADK1vs-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" vertex="1" parent="1">
-          <mxGeometry x="-268.38" y="695.88" width="20.73" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="w829N20PK1tfemADK1vs-7" value="&lt;h2 style=&quot;border-color: var(--border-color); margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(50, 49, 48); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; outline-color: currentcolor; outline-style: none !important; outline-width: medium !important;&quot; aria-describedby=&quot;70205624-b786-42a5-af86-e9bc3f7fa2ec&quot; id=&quot;70205624-b786-42a5-af86-e9bc3f7fa2ed&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&amp;nbsp; &lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;RG-DV-CMPDNA-CORP-EUS2&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="-329.38" y="586.88" width="260" height="28.66" as="geometry" />
         </mxCell>
@@ -1374,6 +1377,9 @@
         </mxCell>
         <mxCell id="w829N20PK1tfemADK1vs-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
           <mxGeometry x="-566.2639494922192" y="214.48999999999998" width="31.88" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DDWMcvHJ5rT7WHecYf2I-1" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;dashed=1;strokeWidth=2;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="642.38" width="24.4" height="20.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
