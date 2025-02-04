@@ -67,15 +67,6 @@
         <mxCell id="6Q-Hn6qIiJSDqyyvaRzo-14" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="6Q-Hn6qIiJSDqyyvaRzo-16" vertex="1">
           <mxGeometry x="1.2360505077808224" y="2.5" width="31.88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6Q-Hn6qIiJSDqyyvaRzo-17" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-0.39999999999997726" y="287" width="261" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="6Q-Hn6qIiJSDqyyvaRzo-12" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;GrupoBimboDNA Deveopment&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#fff2cc;strokeColor=#d6b656;" parent="6Q-Hn6qIiJSDqyyvaRzo-17" vertex="1">
-          <mxGeometry x="11" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="6Q-Hn6qIiJSDqyyvaRzo-13" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Key.svg;" parent="6Q-Hn6qIiJSDqyyvaRzo-17" vertex="1">
-          <mxGeometry x="10.599999999999994" y="5" width="18.4" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="gX7avQePNQMgzRh48Nei-23" value="Azure&lt;br&gt;DevOps&lt;div&gt;BimbOps&lt;/div&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_DevOps.svg;dashed=1;labelBackgroundColor=none;fontColor=#000000;strokeWidth=2;fillColor=none;imageBackground=default;" parent="1" vertex="1">
           <mxGeometry x="1070.9999999999998" y="285.28" width="40" height="40" as="geometry" />
         </mxCell>
