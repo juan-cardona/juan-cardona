@@ -1911,7 +1911,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SAP" id="khLOybcFzWeFxDwIEgAu">
-    <mxGraphModel dx="2727" dy="146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1945" dy="-373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-0" />
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-1" parent="dyYR_PuKcpnrpRv3ziWU-0" />
@@ -2396,31 +2396,34 @@
           <mxGeometry x="452.82" y="1841.87" width="151.57" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-129" value="" style="group" parent="dyYR_PuKcpnrpRv3ziWU-1" vertex="1" connectable="0">
-          <mxGeometry x="-680" y="2040" width="261.70000000000005" height="297.5" as="geometry" />
+          <mxGeometry x="-680" y="2040" width="261.7" height="320" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-130" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontColor=#ffffff;strokeColor=#FF0000;strokeWidth=2;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry width="261.7" height="297.5" as="geometry" />
+          <mxGeometry width="261.69999999999993" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="dyYR_PuKcpnrpRv3ziWU-131" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;CBRTM5XPOLCD05_BIC1&lt;/b&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_SQL_Server_Stretch_Databases.svg;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="108.3599999999999" y="196.5" width="44" height="44.69" as="geometry" />
+        <mxCell id="dyYR_PuKcpnrpRv3ziWU-131" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;CBRTM5XPOLCD05_BIC1&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_SQL_Server_Stretch_Databases.svg;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
+          <mxGeometry x="108.84999999999987" y="170.0013445378151" width="43.99999999999999" height="44.68999999999999" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-132" value="&lt;i&gt;&lt;b&gt;ALREADY DEPLOYED&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="12.3599999999999" y="266.8499999999999" width="143" height="30" as="geometry" />
+          <mxGeometry x="12.359999999999896" y="287.03193277310913" width="142.99999999999997" height="32.26890756302521" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-133" value="Azure Synapse Analytics&lt;div&gt;cbrtm5xsyncd03&lt;/div&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/analytics/Azure_Synapse_Analytics.svg;dashed=1;labelBackgroundColor=none;fontColor=#000000;strokeWidth=2;fillColor=none;imageBackground=default;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="108.3599999999999" y="100.84999999999991" width="34.78" height="46" as="geometry" />
+          <mxGeometry x="108.35999999999987" y="89.99731092436964" width="34.779999999999994" height="45.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-134" value="&lt;span data-teams=&quot;true&quot;&gt;vn-NonProdDNA-eus2&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="41.87999999999977" y="40.649999999999864" width="37.5" height="22.39" as="geometry" />
+          <mxGeometry x="41.87999999999976" y="43.72436974789901" width="37.49999999999999" height="22.389999999999997" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-135" value="&lt;h2 style=&quot;margin: 0px 16px 0px 0px; overflow: hidden; text-overflow: ellipsis; line-height: 28px; flex: 0 1 auto; color: rgb(50, 49, 48); font-family: az_ea_font, &amp;quot;Segoe UI&amp;quot;, az_font, system-ui, -apple-system, BlinkMacSystemFont, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; text-align: start; outline: none !important;&quot; aria-describedby=&quot;70205624-b786-42a5-af86-e9bc3f7fa2ec&quot; id=&quot;70205624-b786-42a5-af86-e9bc3f7fa2ed&quot; class=&quot;fxs-blade-title-titleText msportalfx-tooltip-overflow&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RG-DV-RTM-CORP-SUK&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=solid;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="21.38999999999976" y="1.3399999999999181" width="225.97" height="28.663530231747686" as="geometry" />
+          <mxGeometry x="21.389999999999755" y="1.441344537815038" width="225.96999999999994" height="30.83136024927482" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-136" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="9.996050507780637" width="31.88" height="30" as="geometry" />
+          <mxGeometry x="9.996050507780636" width="31.879999999999992" height="29.999999999999993" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-137" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" parent="dyYR_PuKcpnrpRv3ziWU-129" vertex="1">
-          <mxGeometry x="143.13999999999982" y="90.00000000000006" width="23.25" height="21.31" as="geometry" />
+          <mxGeometry x="143.14" y="80" width="26.44" height="24.23" as="geometry" />
+        </mxCell>
+        <mxCell id="h1zg-zcHhgtPjhgjG9yi-2" value="Schema:&lt;b&gt; GRO_SP_RTM&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dyYR_PuKcpnrpRv3ziWU-129">
+          <mxGeometry x="95.74999999999999" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-138" value="&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;cbocdlkstocd01&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;cat_ocloud_dv&lt;/span&gt;&lt;br style=&quot;text-wrap-mode: nowrap;&quot;&gt;&lt;span style=&quot;text-wrap-mode: nowrap;&quot; class=&quot;xui-provider&quot;&gt;&lt;br&gt;rg1glowms_cz&lt;br&gt;rg2glowms_cz&lt;br&gt;rg3glowms_cz&lt;br&gt;rg4glowms_cz&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dyYR_PuKcpnrpRv3ziWU-1" vertex="1">
           <mxGeometry x="-607.94" y="2570" width="60" height="30" as="geometry" />
@@ -2428,7 +2431,7 @@
         <mxCell id="dyYR_PuKcpnrpRv3ziWU-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.616;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=0;endArrow=none;" parent="dyYR_PuKcpnrpRv3ziWU-1" source="dyYR_PuKcpnrpRv3ziWU-133" target="dyYR_PuKcpnrpRv3ziWU-26" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-390" y="2164" />
+              <mxPoint x="-390" y="2150" />
               <mxPoint x="-390" y="1990" />
               <mxPoint x="-110" y="1990" />
               <mxPoint x="-110" y="1803" />
